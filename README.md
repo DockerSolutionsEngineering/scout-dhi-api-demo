@@ -22,7 +22,7 @@ Use the following `curl` command to exchange your PAT or OAT for a JWT Bearer to
 ```bash
 curl --location 'https://hub.docker.com/v2/auth/token' \
   --header 'Content-Type: text/plain' \
-  --data '{ "identifier": "", "secret": "" }'
+  --data '{ "identifier": "ORG_NAME or DOCKER_ID", "secret": "OAT or PAT" }'
 ```
 
 This will respond with an access token:
