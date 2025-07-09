@@ -139,6 +139,7 @@ query DhiRepositoryDetails($org: String!, $repo: String!) {
   }
 }
 ```
+The image below shows how this would look.
 
 ![API Call](/assets/api_call.png)
 
