@@ -1,4 +1,4 @@
-# Scout API Demo
+# Scout & DHI API Demo
 
 This guide demonstrates how to leverage the GraphQL API of Docker Scout (and DHI) for various automation tasks.
 
